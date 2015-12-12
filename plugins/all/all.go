@@ -32,5 +32,6 @@ import (
 	_ "github.com/influxdb/telegraf/plugins/trig"
 	_ "github.com/influxdb/telegraf/plugins/twemproxy"
 	_ "github.com/influxdb/telegraf/plugins/zfs"
+	_ "github.com/influxdb/telegraf/plugins/zmq"
 	_ "github.com/influxdb/telegraf/plugins/zookeeper"
 )
